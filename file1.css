@@ -1,11 +1,31 @@
 body {
     color: red;
     font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
 }
 
 h1{
-    position: fixed;
+    color: green;
     font-family: "Times New Roman", Times, serif;
 }
 
+
+h2{
+    color: blue;
+    font-size: 200%;
+     text-align: left;
+}
+
+ul{
+    color: red;
+    background-color: yellow;
+}
+
+p {
+    color: white;
+    background-color: black;
+    font-size: 50%
+}
+		  
+		   
 
