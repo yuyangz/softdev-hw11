@@ -1,0 +1,46 @@
+body{
+    color: #55616C;
+    background-color: #BAE8B9;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+h1 {
+    color: #55613S;
+    border: 3px dashed;
+}
+
+a:hover{
+  display: block;
+  background-color: #D5FFD4;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+@keyframes h3_animate {
+	0% {background-color: #D0FFCF;}
+	25% {background-color: #CCFFCB;}
+	50% {background-color: #BAE8B9;}
+	75% {background-color: #A7D1A7;}
+	100% {background-color: #95BA94;}
+}
+
+h2{
+    border: 2px dotted;
+}
+
+h3{
+    animation: h3_animate 3s infinite;
+    
+}
+
+ul{
+  background-color: #95BA94;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p{
+    color: #384638;
+    font-style: italic;
+}
